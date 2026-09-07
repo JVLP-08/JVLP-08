@@ -24,5 +24,5 @@ Tecnologias que estudo
 Como me encontrar:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvlp0/)   
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:joao.victor.fiell@gmail.com)   
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](joao.victor.fiell@gmail.com)   
 *“Sempre aprendendo e evoluindo como desenvolvedor.”* 
